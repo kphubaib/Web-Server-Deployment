@@ -153,7 +153,3 @@ Server: Apache/2.4.57 (Rocky Linux)
 - Static web content deployment
 
 ---
-
-## Resume Line
-
-> *Deployed Apache web server on Rocky Linux, configured firewall rules with firewalld, and hosted a static website with virtual host configuration.*
